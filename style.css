@@ -1,0 +1,192 @@
+body{
+     margin: 0;
+    text-align: center;
+}
+.top_container{
+    position: relative;
+    padding-top: 142px;
+    background-color:#e4f9f5;
+   
+}
+ .top_container h1{
+    margin: 0%;
+    font-size: 5.6rem;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF
+}
+
+.top_container p{
+    margin: 0%;
+    font-weight: normal;
+    line-height: 2;
+    font-size: 2.4rem;
+    font-family: 'Roboto Slab', serif;
+    color:#66BFBF
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 331px;
+    left: 400px;
+}
+.top-cloud {
+    position: absolute;
+    right: 481px;
+    top: 47px;
+}
+.mountain{
+    margin-top: 34px;
+}
+/*first page end*/
+
+/*middle container start*/
+/*profile page*/
+
+.middle_container{
+
+}
+
+.profile{
+    padding:100px;
+    margin: 30px 0px;
+    
+}
+
+.profile-photo{
+    height: 200px;
+}
+.profile h2{
+    color: #30e3ca;
+    font-size: 2.5rem;
+    font-weight: none;
+    
+}
+
+.profile p{
+    display: inline-block;
+    line-height: 38px;
+    font-size: 1.5rem;
+    width: 50%;
+    font-weight: none;
+    font-family: 'Roboto', sans-serif;
+   
+    
+}
+
+/*my skill start*/
+
+.skills{
+    margin: 30px 0px;
+}
+.skills h2{
+    color: #11999E;
+    font-size: 2.5rem;
+    
+}
+.skill-row{
+    display: inline-block;
+    width: 68%;
+    margin-bottom: 20px;
+}
+.skill-row h3{
+    color: #30e3ca;
+    text-align: left;
+    font-size: 2rem;
+}
+.skill-row p{
+  
+    text-align: left;
+    line-height: 2;
+    font-size: 1.5rem;
+}
+.chess-logo{
+        width:25%;
+        float: left;
+        margin-right:30px;
+        margin-bottom:30px;
+        
+    }
+    
+.website-logo{
+        width:25%;
+        float: right;
+        margin-left:10px;
+        margin-bottom:10px;
+    }
+
+/*here contact me start*/
+.contact-me h2{
+    
+    color: #11999E;
+    font-size: 2.5rem;
+}
+
+.contact-me h3{
+    
+    color: #11999E;
+    font-size: 1.5rem;
+}
+.contact-me p{
+    
+     font-size: 1.5rem;
+}
+.BUTTON_JAR {
+
+    background: #E4F9F5;
+    background-image: -webkit-linear-gradient(top, #E4F9F5, #11999E);
+    background-image: -moz-linear-gradient(top, #E4F9F5, #11999E);
+    background-image: -ms-linear-gradient(top, #E4F9F5, #11999E);
+    background-image: -o-linear-gradient(top, #E4F9F5, #11999E);
+    background-image: -webkit-gradient(to bottom, #E4F9F5, #11999E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size:1.5rem;
+    font-weight: 100;
+    padding: 15px;
+    -webkit-box-shadow: inset 1px 1px 20px 0 #5FD9DE;
+    -moz-box-shadow: inset 1px 1px 20px 0 #5FD9DE;
+    box-shadow: inset 1px 1px 20px 0 #5FD9DE;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_JAR:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #40514E);
+    background-image: -moz-linear-gradient(top, #1E62D0, #40514E);
+    background-image: -ms-linear-gradient(top, #1E62D0, #40514E);
+    background-image: -o-linear-gradient(top, #1E62D0, #40514E);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #40514E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+.footer-link{
+     color: #11999E;
+ }
+ 
+.bottom-container{
+    background-color:#e4f9f5;
+    margin-top: 20px;
+    padding:57px
+
+    }
+    .footer-link{
+        font-size: 2rem;
+        margin: 20px;
+        text-decoration: none;
+    }
+    .bottom-container p{
+        font-size: 1.5rem;
+        color: grey;
+    }
